@@ -1,0 +1,48 @@
+1 Hard Worker 2 4
+1 Lazy Complainer 2 4
+10 Scary Austrian 4 6
+1 Hung Over 2 1
+8 Mitigating Circumstances 1
+11 Graduate Student 2 2 2
+1 Sneaky Cheat 2 4
+4 Feedback Forum 2 2
+1 Basket Weaver 1 1
+1 Basket Weaver 1 1
+1 Basket Weaver 1 1
+3 Course Accreditation 1
+1 Clever Dick 2 4
+6 PASS Leader 1 3 1
+6 PASS Leader 1 3 1
+6 PASS Leader 1 3 1
+1 Teachers Pet 4 4
+9 Easy Target 0 6 1
+1 Scanner Scrammer 1 1
+7 Research Funding 1
+1 Bored Rigid 2 2
+1 Smarty Pants 4 2
+2 Plagiarism Hearing 3
+1 Sneaky Cheat 2 4
+5 Industrial Placement 2 3 1
+7 Research Funding 1
+1 Hung Over 2 1
+8 Mitigating Circumstances 1
+9 Easy Target 0 6 1
+10 Scary Austrian 4 6
+1 Teachers Pet 4 4
+11 Graduate Student 2 2 2
+2 Plagiarism Hearing 3
+1 Bored Rigid 2 2
+1 Scanner Scrammer 1 1
+1 Basket Weaver 1 1
+1 Lazy Complainer 2 4
+1 Hung Over 2 1
+1 Hard Worker 2 4
+1 Smarty Pants 4 2
+1 Lazy Complainer 2 4
+1 Hung Over 2 1
+1 Sneaky Cheat 2 4
+1 Basket Weaver 1 1
+1 Clever Dick 2 4
+1 Teachers Pet 4 4
+1 Scanner Scrammer 1 1
+1 Bored Rigid 2 2

@@ -1,0 +1,30 @@
+1 Lazy Complainer 2 4
+8 Mitigating Circumstances 1
+1 Lazy Complainer 2 4
+8 Mitigating Circumstances 1
+9 Easy Target 0 6 1
+1 Hung Over 2 1
+1 Sneaky Cheat 2 4
+1 Basket Weaver 1 1
+1 Clever Dick 2 4
+2 Plagiarism Hearing 3
+2 Plagiarism Hearing 3
+10 Scary Austrian 4 6
+2 Plagiarism Hearing 3
+1 Scanner Scrammer 1 1
+1 Bored Rigid 2 2
+1 Sneaky Cheat 2 4
+2 Plagiarism Hearing 3
+10 Irritating Idiot 3 5
+1 Sneaky Cheat 2 4
+2 Plagiarism Hearing 3
+2 Plagiarism Hearing 3
+10 Irritating Idiot 3 5
+2 Plagiarism Hearing 3
+3 Course Accreditation 1
+11 Graduate Student 2 2 2
+1 Hung Over 2 1
+9 Easy Target 0 6 1
+10 Irritating Idiot 3 5
+1 Hung Over 2 1
+1 Hung Over 2 1
